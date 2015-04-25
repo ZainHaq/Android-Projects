@@ -1,0 +1,13 @@
+nb*
+target
+.DS_Store
+
+credentials.json
+
+javadoc
+
+.classpath
+.project
+.settings/
+.idea/
+*.iml

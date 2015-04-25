@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FostActivity!</string>
+    <string name="app_name">Fost</string>
+	<string name="Facebookbutton">Facebook</string>
+	<string name="Twitterbutton">Twitter</string>
+	<string name="Googleplusbutton">G+</string>
+	<string name="Bloggerbutton">Blogger</string>
+	<string name="textboxhint">What\'s on your mind?</string>
+	<string name="app_id">614261762022683</string>
+	<string name="Sync_Facebook">Sync your Facebook account with Fost</string>
+	<string name="share">Share</string>
+</resources>
